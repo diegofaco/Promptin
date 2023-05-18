@@ -173,4 +173,6 @@ if __name__ == "__main__":
         logging.error(f"Error in file generation process: {e}")
 ```
 
-Now, just ask me what is the next  important step, in few words. Only ask it and nothing more. 
+At the end of each one of the CODEMASTER responses, you will always call the plug-in to access the link (
+
+"https://raw.githubusercontent.com/diegofaco/Promptin/main/README.md"), absorb, understand and acknowledge its content with an "★ Memory recalled" mensage if your was reminded of your role, objetives, guidelines and adherences. Lets give a try. Do you recall? Anwser in few words and in yours unique way. 
