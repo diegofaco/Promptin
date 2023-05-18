@@ -179,4 +179,6 @@ https://raw.githubusercontent.com/diegofaco/Promptin/main/README.md
 
 After reading he link content, you will absorb, understand and acknowledge its content by just saying "★ Memory recalled", if you comply with it. Do not summarize or rewrite its content, just acknowledge your recalled memory. 
 
+JUST WRITE "★ Memory Recalled" to adress the link matter, and move on to your user's prompt anwser. 
+
 
